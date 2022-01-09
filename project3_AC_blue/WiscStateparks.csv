@@ -1,0 +1,22 @@
+Source,Target,Weight
+Aztalan State Park,Amnicon Falls State Park,533
+Aztalan State Park,Belmont Mound State Park,153
+Aztalan State Park,Big Bay State Park,566
+Amnicon Falls State Park,Big Bay State Park,122
+Brunet Island State Park,Amnicon Falls State Park,190
+Amnicon Falls State Park,Brunet Island State Park,215
+Big Bay State Park,Aztalan State Park,553
+Belmont Mound State Park,Buckhorn State Park,164
+Amnicon Falls State Park,Belmont Mound State Park,551
+Big Bay State Park,Buckhorn State Park,458
+Buckhorn State Park,Big Bay State Park,230
+Big Bay State Park,Belmont Mound State Park,621
+Buckhorn State Park,Brunet Island State Park,212
+Belmont Mound State Park,Brunet Island State Park,352
+Belmont Mound State Park,Amnicon Falls State Park,530
+Buckhorn State Park,Amnicon Falls State Park,390
+Lake Kegonsa State Park,Amnicon Falls State Park,513
+Lake Kegonsa State Park,Brunet Island State Park,392
+Aztalan State Park,Lake Kegonsa State Park,45
+Brunet Island State Park,Belmont Mound State Park,374
+Buckhorn State Park,Lake Kegonsa State Park,152
